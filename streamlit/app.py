@@ -16,7 +16,7 @@ def add_bg_from_url():
          f"""
          <style>
          .stApp {{
-             background-image: url("https://images.pexels.com/photos/2246476/pexels-photo-2246476.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2.jpg");
+             background-image: url("https://erowall.com/download_img.php?dimg=32974&raz=2560x1600.jpg");
              background-attachment: fixed;
              background-size: cover
          }}
