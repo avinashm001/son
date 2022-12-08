@@ -16,7 +16,7 @@ def add_bg_from_url():
          f"""
          <style>
          .stApp {{
-             background-image: url("https://photo.xmissy.nl/pictures/babescom1301/20180703-2835920_LanaRhoades_RickyJohnson_FitnessFinesse_pics_xm/033.jpg");
+             background-image: url("https://images.pexels.com/photos/924824/pexels-photo-924824.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2.jpg");
              background-attachment: fixed;
              background-size: cover
          }}
