@@ -16,7 +16,7 @@ def add_bg_from_url():
          f"""
          <style>
          .stApp {{
-             background-image: url("https://erowall.com/download_img.php?dimg=32974&raz=2560x1600.jpg");
+             background-image: url("https://photo.xmissy.nl/pictures/babescom1301/20180703-2835920_LanaRhoades_RickyJohnson_FitnessFinesse_pics_xm/033.jpg");
              background-attachment: fixed;
              background-size: cover
          }}
